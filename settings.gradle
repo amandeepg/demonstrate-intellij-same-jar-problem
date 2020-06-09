@@ -1,0 +1,4 @@
+rootProject.name = 'DemonstrateSameNameJarProblem'
+include ':one:core'
+include ':two:core'
+

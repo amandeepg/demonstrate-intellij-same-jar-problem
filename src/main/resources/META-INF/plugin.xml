@@ -1,0 +1,10 @@
+<idea-plugin>
+    <id>com.example.deomnstrate</id>
+    <name>Demonstrate</name>
+    <version>1.0</version>
+    <vendor>Me</vendor>
+    <extensions defaultExtensionNs="com.intellij">
+        <codeInsight.lineMarkerProvider language="JAVA"
+                                        implementationClass="com.example.SimpleLineMarkerProvider"/>
+    </extensions>
+</idea-plugin>
